@@ -1,0 +1,22 @@
+[
+  {
+    "text": "AEM",
+    "link": "/aem/foundation/introduction-to-aem",
+    "activeMatch": "/aem/"
+  },
+  {
+    "text": "VueJS",
+    "link": "/vuejs/vue2.7/introduction",
+    "activeMatch": "/vuejs/"
+  },
+  {
+    "text": "Web Debug",
+    "link": "/webdev/chrome-devtools-pro-cheatsheet",
+    "activeMatch": "/webdev/"
+  },
+  {
+    "text": "Articles",
+    "link": "/articles/note",
+    "activeMatch": "/articles/"
+  }
+]

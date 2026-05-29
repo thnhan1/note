@@ -1,0 +1,13 @@
+[
+  {
+    "type": "dir",
+    "name": "articles",
+    "label": "articles"
+  },
+  "index",
+  {
+    "type": "dir",
+    "name": "vue2.7",
+    "label": "vue2.7"
+  }
+]

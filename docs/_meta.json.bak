@@ -1,0 +1,23 @@
+[
+  "intro",
+  {
+    "type": "dir",
+    "name": "aem",
+    "label": "AEM Basic"
+  },
+  {
+    "type": "dir",
+    "name": "vuejs",
+    "label": "VueJS"
+  },
+  {
+    "type": "dir",
+    "name": "webdev",
+    "label": "Web Debug"
+  },
+  {
+    "type": "dir",
+    "name": "articles",
+    "label": "Articles"
+  }
+]

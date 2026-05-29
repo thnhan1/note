@@ -1,0 +1,32 @@
+[
+  {
+    "type": "dir",
+    "name": "foundation",
+    "label": "Foundation"
+  },
+  {
+    "type": "dir",
+    "name": "content-and-data",
+    "label": "Content & Data"
+  },
+  {
+    "type": "dir",
+    "name": "backend",
+    "label": "Backend"
+  },
+  {
+    "type": "dir",
+    "name": "ui",
+    "label": "UI"
+  },
+  {
+    "type": "dir",
+    "name": "infrastructure",
+    "label": "Infrastructure"
+  },
+  {
+    "type": "dir",
+    "name": "selection",
+    "label": "selection"
+  }
+]
